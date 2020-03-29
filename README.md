@@ -1,5 +1,4 @@
 # Flask-Rest_API_without_sqlalchemy
-Step by step code improvement Flask
 
 ## Instalation
 
